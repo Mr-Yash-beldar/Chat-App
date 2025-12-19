@@ -807,7 +807,7 @@ This project is licensed under the ISC License.
 
 ## 📞 Support
 
-For support, email your.email@example.com or open an issue in the GitHub repository.
+For support, email bhumikasalunkhe283@gmail.com or open an issue in the GitHub repository.
 
 ---
 
@@ -817,5 +817,5 @@ If you like this project, please give it a ⭐ on GitHub!
 
 ---
 
-**Built with ❤️ using MERN Stack**
+**Built with ❤️ by Bhumika Salunkhe**
 
